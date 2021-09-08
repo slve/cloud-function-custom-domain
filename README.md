@@ -41,3 +41,11 @@ References
 ----------
 - https://firebase.google.com/docs/functions/get-started
 - https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless#gcloud_1
+
+Further readings
+----------------
+- https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts
+- https://cloud.google.com/load-balancing/docs/negs/
+- https://cloud.google.com/run/docs/mapping-custom-domains
+- https://cloud.google.com/load-balancing/docs/https/ext-http-lb-tf-module-examples#cloud-run
+- https://stackoverflow.com/questions/45850375/use-custom-domain-for-google-cloud-function
