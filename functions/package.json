@@ -9,11 +9,11 @@
     "logs": "firebase functions:log"
   },
   "engines": {
-    "node": "14"
+    "node": "16"
   },
   "main": "index.js",
   "dependencies": {
-    "firebase-functions": "^3.14.1"
+    "firebase-functions": "^3.15.7"
   },
   "devDependencies": {
     "firebase-functions-test": "^0.2.0"
